@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>Titre de ma page</title>
+        </head>
+        <body>
+            <!--Ceci est mon premier titre-->
+            <h1> Mon premier titre </h1>
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque 
+                laudantium, <em>totam rem aperiam</em>, eaque ipsa quae ab illo inventore veritatis 
+                et quasi architecto<!--Ceci est mon premier commentaire--> beatae vitae dicta sunt explicabo.
+                Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit </p>
+            <hr>
+            <!--Ceci est mon deuxieme titre-->
+            <h2> Mon deuxième titre </h2>
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque 
+                laudantium, totam <strong>rem aperiam, eaque ipsa quae</strong> ab illo inventore veritatis 
+                et quasi architecto beatae vitae dicta sunt explicabo.
+                Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit </p>
+            <!--Ceci est mon troisieme titre-->
+                <h3>Mon troisième titre</h3>
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque 
+                laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis 
+                et quasi <strong>architecto beatae</strong> vitae dicta sunt explicabo.
+                Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit </p>
+             
+            <!--Ceci est mon quatrieme titre-->
+                <h4>Mon quatrième titre</h4>
+            <p>Sed ut <em>perspiciatis unde omnis iste natus</em> error sit voluptatem accusantium doloremque 
+                laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis 
+                et quasi architecto beatae vitae dicta sunt explicabo.
+                Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit </p>
+            <hr>
+
+             <!--Ceci est mon cinquieme titre-->
+                <h5>Mon cinquième titre</h5>
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque 
+                laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis 
+                et quasi architecto beatae vitae dicta sunt explicabo.
+                Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit </p>
+            
+             <!--Ceci est mon sixieme titre-->
+                <h6>Mon sixième titre</h6>
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque 
+                laudantium,totam rem aperiam, eaque ipsa quae ab illo inventore veritatis 
+                et quasi architecto beatae vitae dicta sunt explicabo.
+                Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit </p>
+        </body>
+</html>
