@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>Titre de ma page</title>
+        </head>
+
+        <body>
+            <h1>Les listes</h1>
+            <ol>
+                <li>Introduction</li>
+            <li>Partie Ⅰ
+                <!--On imbrique une liste non ordonnée dans une liste ordonée-->
+                <ul>
+                    <li>Définitions</li>
+                    <li>Généralités</li>
+                    <li>Exemples</li>
+                </ul>
+            </li>
+                <li>Partie ⅠⅠ</li>
+                <li>Conclusion</li>
+            </ol>
+        </body>
+</html>
