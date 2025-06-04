@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Titre de ma page</title>
+        </head>
+        <body>
+            <h2>Vidéo Pixabay</h2>
+            <video src="ma.video.mp4"controls width="500">Description alternative</video>
+
+            <h2>Audio MP3</h2>
+            <audio src="waves.mp3.mp3" controls>Description alternative</audio>
+
+            <h2>Vidéo Youtube : </h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Tz-PIx6ncRY?si=qak2jbJWcMEeW3n7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+        </body>
+</html>
