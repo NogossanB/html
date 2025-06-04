@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Titre de ma page</title>
+        </head>
+        <body>
+
+            <h1>Les listes </h1>
+            <h2>Les listes à puces</h2>
+
+            <ul> 
+                <li>
+                    <h3>Le premier jour</h3>
+
+                    <p>
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 
+                        eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam 
+                        voluptatem quia voluptas sit aspernatur aut odit aut fugit
+
+                    </p>
+                </li>
+
+                <li>
+                    <h3>Le deuxième jour</h3>
+                    <p>
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+                         totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                          Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
+                    </p>
+                </li>
+
+                <li>
+                     <h3>Le troisième jour</h3>
+                    <p>
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+                         totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                          Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
+                    </p>
+                </li>
+            </ul>
+
+               
+    </body>
+</html>
