@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Titre de ma page</title>
+        </head>
+        <body>
+            <h1>Google Maps</h1>
+           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26948.68788602129!2d2.0023597948677714!3d48.78413338633157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e686d43b884fc1%3A0x659a410f7ee0881b!2sifocop%20-%20Centre%20de%20Montigny-Le-Bretonneux!5e0!3m2!1sfr!2sfr!4v1748961815469!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </body>
+</html>
