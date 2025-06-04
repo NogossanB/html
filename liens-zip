@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Titre de ma page</title>
+        </head>
+        <body>
+            <h1>Lien vers le blog du Modérateur</h1>
+
+            <a href="//www.blogdumoderateur.com/" title="Blof du Modérateur" target="_blank">Lien vers le blog du Modérateur</a>
+
+            <h2>Lien externe</h2>
+            <a href="lien.interne.html" title="Page 2">Lien vers Page 2</a>
+
+            <h2>Lien interne : autre répertoire</h2>
+            Lien interne dans mon dossier pages 
+            <a href="pages/page2.html">page 2</a>
+
+            <h2>Lien vers une ancre</h2>
+            <a href="pages/page2.html#haut_de_page">Lien vers la conclusion de la page 2</a>
+
+            <h2>Lien vers une adresse mail</h2>
+            Lien vers mon adresse mail <a href="mailto:nogossanbinate@outlook.fr">nogossanbinate@outlook.fr</a>
+
+            <h2>Lien vers un numéro de téléphone</h2>
+            Lien vers un numéro de téléphone <a href="tel:+3300000000">00 00 00 00 00</a>
+            <h2>Lien vers un fichier zip</h2>
+            Lien vers un fichier zip<a href="archive.zip.zip">Archive zip</a>
+
+             Lien vers un fichier zip<a href="html-css-CH1.pdf">HTML</a>
+        </body>
+</html>
